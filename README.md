@@ -1,5 +1,3 @@
-
-###### Hi there �
 <h1 align="center">Hi 👋, I'm Hanif Hossain</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
